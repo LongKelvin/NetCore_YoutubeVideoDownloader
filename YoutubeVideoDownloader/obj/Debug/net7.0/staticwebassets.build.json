@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "np/6guwcQw4fM8rlE4Pg2nBu1HISWkMEyJnS7OGBWQ0=",
+  "Source": "YoutubeVideoDownloader.WebAPI",
+  "BasePath": "_content/YoutubeVideoDownloader.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

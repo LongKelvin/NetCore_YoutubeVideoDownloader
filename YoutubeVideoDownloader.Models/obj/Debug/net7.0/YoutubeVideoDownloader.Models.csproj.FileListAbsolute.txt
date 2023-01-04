@@ -1,0 +1,15 @@
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\bin\Debug\net7.0\YoutubeVideoDownloader.Models.deps.json
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\bin\Debug\net7.0\YoutubeVideoDownloader.Models.dll
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\bin\Debug\net7.0\YoutubeVideoDownloader.Models.pdb
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\bin\Debug\net7.0\YoutubeVideoDownloader.Common.dll
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\bin\Debug\net7.0\YoutubeVideoDownloader.Common.pdb
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\YoutubeVideoDownloader.Models.csproj.AssemblyReference.cache
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\YoutubeVideoDownloader.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\YoutubeVideoDownloader.Models.AssemblyInfoInputs.cache
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\YoutubeVideoDownloader.Models.AssemblyInfo.cs
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\YoutubeVideoDownloader.Models.csproj.CoreCompileInputs.cache
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\YoutubeVideoDownloader.Models.csproj.CopyComplete
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\YoutubeVideoDownloader.Models.dll
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\refint\YoutubeVideoDownloader.Models.dll
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\YoutubeVideoDownloader.Models.pdb
+D:\MY_WORKLOAD\PET PROJECT\CSHARP NET\YoutubeVideoDownloader\YoutubeVideoDownloader.Models\obj\Debug\net7.0\ref\YoutubeVideoDownloader.Models.dll
